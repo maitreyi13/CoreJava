@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class quoRem {
+public class QuoRem {
         public static void main(String[] args) {
 
             int dividend; int divisor;
