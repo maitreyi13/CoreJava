@@ -1,4 +1,4 @@
-public class powerOfTwo {
+public class PowerOfTwo {
         public static void main(String[] args) {
             int n = 30;
             int i = 1;
